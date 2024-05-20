@@ -1,0 +1,19 @@
+{
+    "oracleDBconnectionList": [
+        {
+            "host": "host",
+            "port": 1521,
+            "user": "user",
+            "password": "password",
+            "serviceName": "odsprod1"
+        }
+    ],
+    "mariaDBconnectionList":[
+        {
+            "host": "host",
+            "dbname":"RISKAP01",
+            "user": "APuser",
+            "password": "password"
+        }
+    ]
+}

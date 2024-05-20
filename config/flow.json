@@ -1,0 +1,18 @@
+{
+    "type": "SQLtoCSV",
+    "flowList":[
+        {
+            "flowID":"mariatest",
+            "dbType":"maria",
+            "dbName":"RISKAP01",
+            "fileName":"mariatest"
+        },
+        {
+            "flowID":"oracletest",
+            "dbType":"oracle",
+            "dbName":"odsprod1",
+            "fileName":"oracletest",
+            "serviceName":"odsprod1"
+        }
+    ]
+}
